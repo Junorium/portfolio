@@ -1,6 +1,19 @@
 # Portfolio Overview
 <h1>Table of Contents</h1>
 
+<h2>Indexing</h2>
+  <h3>Binary and Linear Search</h3>
+  <h3>AVL Trees</h3>
+  <h3>Red-Black Trees</h3>
+  <h3>Splay Trees</h3>
+  <h3>Open Hash Tables (Closed Addressing)</h3>
+  <h3>Closed Hash Tables (Open Addressing)</h3>
+  <h3>Closed Hash Tables (Buckets)</h3>
+  <h3>Trie (Prefix Tree)</h3>
+  <h3>Radix Tree (Compact Trie)</h3>
+  <h3>Ternary Search Tree</h3>
+  <h3>B Trees</h3>
+  <h3>B+ Trees</h3>
 <h2>Sorting Algorithms</h2>
   <h3>Comparison Sorting</h3>
     <h4>Bubble Sort</h4>
