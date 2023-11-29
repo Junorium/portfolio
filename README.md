@@ -2,6 +2,7 @@
 codedex
 shenzhen(i/o)
 codecombat
+leetcodew
 <h1>Table of Contents</h1>
 
 <h2>Indexing</h2>
@@ -47,6 +48,8 @@ codecombat
   <h3>Kruskal Minimum Cost Spanning Tree</h3>
 <h2>Pandas and Matplotlib Visualization</h2>
 <h2>Git and SDLC</h2>
+<h2>Python Flask, Nodejs, Expressjs</h2>
+<h2>Figma</h2>
 <h2>Discrete Mathematics</h2>
 <h2>React and Javascript</h2>
 <h2>iOS Swift</h2>
