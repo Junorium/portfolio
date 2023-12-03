@@ -1,0 +1,3 @@
+list = []
+
+def bubblesort(data):
