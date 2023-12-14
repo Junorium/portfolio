@@ -1,8 +1,4 @@
 # Portfolio Overview
-codedex
-shenzhen(i/o)
-codecombat
-leetcodew
 <h1>Table of Contents</h1>
 
 <h2>Indexing</h2>
